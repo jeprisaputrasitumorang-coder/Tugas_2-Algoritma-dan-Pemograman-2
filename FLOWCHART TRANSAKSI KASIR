@@ -1,0 +1,25 @@
+[Start]
+   ↓
+[Tampilkan Daftar Barang]
+   ↓
+[Input Kode Barang]
+   ↓
+[Seleksi Kode Barang (Switch)]
+   ↓
+{Kode Valid?}
+   ├── Tidak → [Tampilkan "Kode tidak ditemukan"] → [End]
+   └── Ya
+         ↓
+   [Input Jumlah Beli]
+         ↓
+   [Hitung Total = Harga × Jumlah]
+         ↓
+   [Tampilkan Nama Barang, Harga, Jumlah, Total]
+         ↓
+   [Input Pembayaran]
+         ↓
+   [Hitung Kembalian = Bayar - Total]
+         ↓
+   [Tampilkan Kembalian]
+         ↓
+[End]
