@@ -1,0 +1,19 @@
+Daftar Barang:
+001 - Beras (Rp12000)
+002 - Gula (Rp14000)
+003 - Telur (Rp20000)
+201 - Snack (Rp10000)
+202 - Es Krim (Rp8000)
+203 - Pulpen (Rp3000)
+204 - Pensil (Rp2000)
+
+Masukkan kode barang: 001
+Masukkan jumlah beli: 2
+
+Nama Barang : Beras
+Harga       : 12000
+Jumlah      : 2
+Total       : 24000
+
+Masukkan jumlah bayar: 30000
+Kembalian   : 6000
